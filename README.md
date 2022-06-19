@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Danny0728/Danny0728/blob/main/devcard.svg" width="400" alt="Yash Chavan's Dev Card"/></a>
+<a href="https://app.daily.dev/mahi_22"><img src="https://api.daily.dev/devcards/9ad3019669244d5a92bdf1d7bd50204a.png?r=sbb" width="400" alt="Yash Chavan's Dev Card"/></a>
 <!--
 **Danny0728/Danny0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/Danny0728/Danny0728/blob/main/devcard.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
